@@ -1,0 +1,32 @@
+/* Estilo para o header */
+header {
+  background-color: #f8b400;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 3px solid #e59400;
+}
+
+/* Estilo para a navegação */
+header nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+header nav ul li a:hover {
+  background-color: #fff;
+  color: #f8b400;
+  border-radius: 5px;
+}
