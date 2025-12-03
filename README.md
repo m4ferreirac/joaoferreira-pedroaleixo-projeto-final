@@ -2,29 +2,42 @@
 
 Este projeto tem como objetivo criar uma página colaborativa com receitas compartilhadas pelos integrantes do grupo.
 
-## Instruções
-- Clique em “Use this template”
-- Crie seu próprio repositório em grupo
-- Siga os exercícios em docs/roteiro_de_atividades.pdf
-- Preencha docs/relatorio.md ao final
-- Entregue o link do repositório no GoogleClassRoom
-- Não esqueça de adicionar o professor como colaborador do seu projeto alexsteil-istec
+---
 
+## Instruções Iniciais
+1. Clique em **“Use this template”** no repositório base.
+2. Crie seu próprio repositório em grupo.
+3. Convide o professor como colaborador: `alexsteil-istec`.
+4. Siga os exercícios do arquivo `docs/roteiro_de_atividades.pdf`.
+5. Complete o relatório final em `docs/relatorio.md`.
+6. Entregue apenas o link do repositório no GoogleClassRoom.
 
-## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+---
 
-## Descrição
-Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
+## Integrantes do Grupo
+- João Ferreira  
+- Pedro Aleixo  
+
+---
+
+## Descrição do Projeto
+Cada integrante deve adicionar receitas em arquivos Markdown ou HTML, utilizando **boas práticas de versionamento** com Git e GitHub. As receitas podem ser individuais ou colaborativas.  
+
+---
 
 ## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+1. Crie uma **branch** para cada nova receita ou alteração.
+2. Faça **commits** com mensagens claras e informativas.
+3. Crie **Pull Requests** e solicite revisão de outro integrante.
+4. Utilize **Issues** para discutir ideias, melhorias ou bugs.
 
-## Serão avaliados:
-- Participação de cada aluno (Insights > Contributors)
-- Organização de branches e commits
-- Uso de issues e pull requests
-- Conflitos resolvidos (se houver)
-- Preenchimento do relatório final
+> Consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
+
+---
+
+## Critérios de Avaliação
+- Participação de cada aluno (Insights → Contributors)  
+- Organização de branches e commits  
+- Uso de Issues e Pull Requests  
+- Resolução de conflitos (se houver)  
+- Preenchimento completo do relatório final
