@@ -31,6 +31,32 @@ header nav ul li a:hover {
   border-radius: 5px;
 }
 
+/* Estilo para Pão de Queijo */
+#pao-de-queijo {
+  background-color: #fff8dc;  /* tom suave de creme */
+  border: 2px solid #f5d68f;  /* cor próxima do queijo */
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+}
+
+#pao-de-queijo h2 {
+  color: #d2691e;  /* tom marrom parecido com o pão de queijo assado */
+  text-align: center;
+}
+
+#pao-de-queijo h3 {
+  color: #a0522d;  /* tom marrom mais escuro */
+}
+
+#pao-de-queijo ul,
+#pao-de-queijo ol {
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
 /* Estilo para Bolo de Cenoura */
 #bolo-cenoura {
   background-color: #fff0f5;  /* tom suave de rosa/lilás */
